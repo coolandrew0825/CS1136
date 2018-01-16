@@ -1,8 +1,3 @@
-// Lab 9 Exercise 1
-// The gross and net pay application 
-//
-// Program by: Andrew Chen
-
 #include <iostream>
 #include <iomanip>
 
@@ -45,7 +40,7 @@ int main()
    netPay = computeNetPay(grossPay);
 
    // Fill in the code to display grossPay and to calculate 
-   // and display netPay – use the computeNetPay function to 
+   // and display netPay â€“ use the computeNetPay function to 
    // calculate the net pay. 
 
    // print out statements
