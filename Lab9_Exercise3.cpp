@@ -1,7 +1,3 @@
-// Lab 9 Exercise 3
-// Currency conversions 
-//
-// Program by: Andrew Chen
 #include <iostream>
 #include <iomanip>
 
