@@ -1,8 +1,3 @@
-// Lab 9 Exercise 2
-// Call by value and call by reference 
-//
-// Program by: Andrew Chen
-
 #include <iostream>
 
 using namespace std;
